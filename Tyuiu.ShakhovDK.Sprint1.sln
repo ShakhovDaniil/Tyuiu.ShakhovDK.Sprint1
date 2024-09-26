@@ -21,11 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShakhovDK.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{F18399F1-58CD-42FD-97E8-AA3BD751FD09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26", "Tyuiu.ShakhovDK.Sprint1.Task2.V26\Tyuiu.ShakhovDK.Sprint1.Task2.V26.csproj", "{57AF5CB7-787E-4C93-953B-17FAEB3C8A63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26", "Tyuiu.ShakhovDK.Sprint1.Task2.V26\Tyuiu.ShakhovDK.Sprint1.Task2.V26.csproj", "{57AF5CB7-787E-4C93-953B-17FAEB3C8A63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib", "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib\Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib.csproj", "{5349A939-0220-4660-B48C-98D477A0E785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib", "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib\Tyuiu.ShakhovDK.Sprint1.Task2.V26.Lib.csproj", "{5349A939-0220-4660-B48C-98D477A0E785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test", "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test\Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test.csproj", "{104013AF-5D6D-40EC-9673-3FDF7B0A225C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test", "Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test\Tyuiu.ShakhovDK.Sprint1.Task2.V26.Test.csproj", "{104013AF-5D6D-40EC-9673-3FDF7B0A225C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
