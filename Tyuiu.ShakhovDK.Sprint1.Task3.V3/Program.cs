@@ -41,7 +41,7 @@ class Program
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                                            *");
         Console.WriteLine("*****************************************************************************************");
 
-        Console.WriteLine($"Объём параллелепипеда = {ds.ParallelepipedVolume(a, b, h)}");
+        Console.WriteLine($"Объём параллелепипеда = {Math.Round(ds.ParallelepipedVolume(a, b, h), 3)}");
 
         Console.ReadLine();
     }
