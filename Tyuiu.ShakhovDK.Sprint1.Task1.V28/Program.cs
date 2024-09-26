@@ -23,9 +23,11 @@ class Program
         Console.WriteLine(" ИСХОДНЫЕ ДАННЫЕ:                                                                       *");
         Console.WriteLine("*****************************************************************************************");
 
+        double x;
+
         Console.WriteLine("Введите значение x: ");
 
-        double x = Convert.ToDouble(Console.ReadLine());
+        x = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("*****************************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                                            *");
@@ -33,7 +35,7 @@ class Program
 
         Console.WriteLine(ds.Calculate(x));
 
-        Console.ReadKey();
+        Console.ReadLine();
 
     }
 }
