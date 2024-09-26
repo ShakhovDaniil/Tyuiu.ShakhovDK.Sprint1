@@ -3,6 +3,7 @@
 class Program
 {
 
+  
     static void Main(string[] args)
     {
         DataService ds = new DataService();
@@ -36,6 +37,7 @@ class Program
         Console.WriteLine(ds.Calculate(x));
 
         Console.ReadLine();
+
 
     }
 }
