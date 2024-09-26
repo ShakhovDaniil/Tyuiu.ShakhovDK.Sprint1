@@ -25,7 +25,7 @@ class Program
 
         int x; 
         int y;
-        1
+ 
         Console.WriteLine("Введите значение в часах: ");
 
         x = Convert.ToInt32(Console.ReadLine());
